@@ -36,6 +36,10 @@ Recursos para desarrollar más rápido lo que te propongas
 - [laragon](https://laragon.org/)
 - [mamp](https://www.mamp.info/)
 
+**CDN librerías js**
+
+[cdnjs](https://cdnjs.com/libraries/jquery)
+
 **Repositorio de código**
 
 - [github](https://github.com/)
