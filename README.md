@@ -25,6 +25,7 @@ Recursos para desarrollar más rápido lo que te propongas
 
 **Iconos**
 
+- [buscador iconos](https://bootsnipp.com/iconsearch/)
 - [iconfinder](https://www.iconfinder.com/)
 - [bootstrap](https://icons.getbootstrap.com/)
 - [tablericons](https://tablericons.com/)
