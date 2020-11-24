@@ -27,6 +27,7 @@ Recursos para desarrollar más rápido lo que te propongas
 
 - [visualizar json](http://json.parser.online.fr/)
 - [convertir una fecha a segundos o al revés](https://www.epochconverter.com/)
+- [ver contenido extensión chrome](https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin)
 
 **Pagos**
 
