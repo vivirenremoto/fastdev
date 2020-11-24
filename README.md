@@ -7,6 +7,13 @@ Recursos para desarrollar más rápido lo que te propongas
 - [bootstrap](https://getbootstrap.com/)
 - [fomantic-ui](https://fomantic-ui.com/)
 
+**Ejemplos de layouts**
+
+- [bootstrap](https://getbootstrap.com/docs/4.0/examples/)
+- [bootsnipp](https://bootsnipp.com/)
+- [fomantic-ui](https://fomantic-ui.com/usage/layout.html)
+- [codemyui](https://codemyui.com/)
+
 **Alojamiento estaticos**
 
 - [github pages](https://github.com/)
