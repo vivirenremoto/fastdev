@@ -2,33 +2,33 @@
 
 Recursos para desarrollar más rápido lo que te propongas
 
-**Frontend
+**Frontend**
 
 - [bootstrap](https://getbootstrap.com/)
 - [fomantic-ui](https://fomantic-ui.com/)
 
-**Alojamiento estaticos
+**Alojamiento estaticos**
 
 - [github pages](https://github.com/)
 - [netlify](https://www.netlify.com/)
 
-**Alojamiento backend
+**Alojamiento backend**
 
 - [heroku](https://www.heroku.com/)
 
-**Iconos
+**Iconos**
 
 - [iconfinder](https://www.iconfinder.com/)
 - [bootstrap](https://icons.getbootstrap.com/)
 - [tablericons](https://tablericons.com/)
 - [fontawesome](https://fontawesome.com/)
 
-**Herramientas
+**Herramientas**
 
 - [visualizar json](http://json.parser.online.fr/)
 - [convertir una fecha a segundos o al revés](https://www.epochconverter.com/)
 
-**Pagos
+**Pagos**
 
 - [stripe](https://stripe.com/)
 - [paypal checkout](https://developer.paypal.com/docs/checkout/)
