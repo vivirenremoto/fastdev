@@ -33,3 +33,8 @@ Recursos para desarrollar más rápido lo que te propongas
 
 - [stripe](https://stripe.com/)
 - [paypal checkout](https://developer.paypal.com/docs/checkout/)
+
+**Marketplaces de extensiones de navegador**
+
+- [chrome](https://chrome.google.com/webstore/category/extensions?hl=es)
+- [firefox](https://addons.mozilla.org/es/developers/)
