@@ -14,12 +14,12 @@ Recursos para desarrollar más rápido lo que te propongas
 - [fomantic-ui](https://fomantic-ui.com/usage/layout.html)
 - [codemyui](https://codemyui.com/)
 
-**Alojamiento estaticos**
+**Alojamiento gratis estaticos**
 
 - [github pages](https://github.com/)
 - [netlify](https://www.netlify.com/)
 
-**Alojamiento backend**
+**Alojamiento gratis backend**
 
 - [heroku](https://www.heroku.com/)
 
