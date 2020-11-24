@@ -23,6 +23,10 @@ Recursos para desarrollar más rápido lo que te propongas
 - [tablericons](https://tablericons.com/)
 - [fontawesome](https://fontawesome.com/)
 
+**Desarrollo web local**
+
+- [laragon](https://laragon.org/)
+
 **Herramientas**
 
 - [visualizar json](http://json.parser.online.fr/)
