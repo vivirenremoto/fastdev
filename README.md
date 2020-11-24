@@ -33,6 +33,7 @@ Recursos para desarrollar más rápido lo que te propongas
 **Desarrollo web local**
 
 - [laragon](https://laragon.org/)
+- [mamp](https://www.mamp.info/)
 
 **Repositorio de código**
 
