@@ -38,7 +38,7 @@ Recursos para desarrollar más rápido lo que te propongas
 
 **CDN librerías js**
 
-[cdnjs](https://cdnjs.com/libraries/jquery)
+- [cdnjs](https://cdnjs.com/libraries/jquery)
 
 **Repositorio de código**
 
