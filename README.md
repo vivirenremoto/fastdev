@@ -41,6 +41,11 @@ Recursos para desarrollar más rápido lo que te propongas
 - [github](https://github.com/)
 - [bitbucket](https://bitbucket.org/)
 
+**Ayuda, tutoriales**
+
+- [stackoverflow](https://es.stackoverflow.com/)
+- [dev](https://dev.to/)
+
 **Herramientas**
 
 - [visualizar json](http://json.parser.online.fr/)
