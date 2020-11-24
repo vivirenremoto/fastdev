@@ -66,6 +66,10 @@ Recursos para desarrollar más rápido lo que te propongas
 - [chrome](https://chrome.google.com/webstore/category/extensions?hl=es)
 - [firefox](https://addons.mozilla.org/es/developers/)
 
+**Panel de control**
+
+- [vesta](https://vestacp.com/)
+
 **IDE**
 
 - [visual studio code](https://code.visualstudio.com/)
